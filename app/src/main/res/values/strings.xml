@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestFirebase</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_jenis_kelamin">Masukkan Jenis Kelamin</string>
+    <string name="masukkan_tempat_tanggal_lahir">Masukkan Tempat Tanggal Lahir</string>
+</resources>
